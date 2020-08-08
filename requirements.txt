@@ -1,4 +1,4 @@
 flask
 flask_sqlalchemy
 flask_mail
-Werkzeug==0.9.6
+Werkzeug==0.15
