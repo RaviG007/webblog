@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri":"mysql://root:@localhost/indodefence",
+    "prod_uri":"mysql://root:@localhost/indodefence",
+    "fb_url":"https://facebook.com",
+    "tw_url":"https://twitter.com",
+    "gh_url":"https://github.com/RaviG007",
+    "blog_name":"Indian Defence Blog",
+    "gmail-user":"raviramanmail@gmail.com",
+    "gmail-password":"Rpasswpord",
+    "about_text": "Hi this is html flask app using html and flask",
+    "tag_line":"Indian Defence And Aerospace",
+    "no_of_posts": 8,
+    "login_image":"login.svg",
+    "admin_user":"harry",
+    "admin_password": "subscribenow",
+    "upload_location": "E:\\Web Development\\Flask blog app\\static"
+  }
+}
